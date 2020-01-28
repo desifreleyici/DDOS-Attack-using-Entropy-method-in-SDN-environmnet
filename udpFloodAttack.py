@@ -6,7 +6,7 @@ import os
 
 #victim: h2
 #attacker : h4
-dest_ip = "10.0.0.2"
+dest_ip = "213.128.77.155"
 
 #portNum = 6555
 #flood the packets for 60secs
